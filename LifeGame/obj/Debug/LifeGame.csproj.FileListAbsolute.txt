@@ -1,0 +1,12 @@
+C:\Users\yatsu\Documents\develop\cs\LifeGame\LifeGame\obj\Debug\LifeGame.csprojAssemblyReference.cache
+C:\Users\yatsu\Documents\develop\cs\LifeGame\LifeGame\obj\Debug\LifeGame.Form1.resources
+C:\Users\yatsu\Documents\develop\cs\LifeGame\LifeGame\obj\Debug\LifeGame.Properties.Resources.resources
+C:\Users\yatsu\Documents\develop\cs\LifeGame\LifeGame\obj\Debug\LifeGame.csproj.GenerateResource.cache
+C:\Users\yatsu\Documents\develop\cs\LifeGame\LifeGame\obj\Debug\LifeGame.csproj.CoreCompileInputs.cache
+C:\Users\yatsu\Documents\develop\cs\LifeGame\LifeGame\obj\Debug\LifeGame.ChessBoard.resources
+C:\Users\yatsu\Documents\develop\cs\LifeGame\LifeGame\obj\Debug\LifeGame.SettingForm.resources
+C:\Users\yatsu\Documents\develop\cs\LifeGame\LifeGame\bin\Debug\LifeGameChess.exe.config
+C:\Users\yatsu\Documents\develop\cs\LifeGame\LifeGame\bin\Debug\LifeGameChess.exe
+C:\Users\yatsu\Documents\develop\cs\LifeGame\LifeGame\bin\Debug\LifeGameChess.pdb
+C:\Users\yatsu\Documents\develop\cs\LifeGame\LifeGame\obj\Debug\LifeGameChess.exe
+C:\Users\yatsu\Documents\develop\cs\LifeGame\LifeGame\obj\Debug\LifeGameChess.pdb
